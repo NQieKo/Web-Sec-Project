@@ -11,7 +11,7 @@
 |2. Muhammad Zikry Bin Zulkipli | 2219579 | 
 |3. Moha Math Yafa  | 2124769  |
 |4. Adam Azraei Bin Azhar |  2215967 | 
-|5. Alif Naqiuddin Bin Amienul Isqandar |  2219909 |
+|5. Alif Naqiudin Bin Amienur Isqandar |  2219909 |
 
 ## Web Application Title
 Taqwa Travel – Shariah-Compliant Travel Planner
